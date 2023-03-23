@@ -24,4 +24,4 @@ var lista = []
 lista.push(obj_livro1)
 lista.push(obj_livro2)
 
-console.log(lista[1])
+console.log(lista[1]) 
