@@ -28,19 +28,3 @@ class Corrente extends Conta /*herança*/{
 
 var obj_corrente = new Corrente(300)
 console.log(obj_corrente.imprimir())
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
