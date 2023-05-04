@@ -1,0 +1,5 @@
+npm init -y
+
+npm install express mysql dotenv cors body-parser
+
+npm install nodemon --save-dev
