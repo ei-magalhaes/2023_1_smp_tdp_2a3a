@@ -1,0 +1,16 @@
+*git init -> inicia controle de versão
+
+*git status -> verificar alteração
+
+*git add(nomedoarquivo.extensãodoarquivo) -> adicionar arquivo a nova versão
+
+*git add . -> adicionar todos arquivos alterados para a nova versão
+
+*git commit -m "" -> gerar outra versão
+
+*git config --global user.name/email "nomeusuario/emailusuario" -> adicionar nome usuario ou email
+
+*git log -> lista de commits
+
+
+alterar tudo
